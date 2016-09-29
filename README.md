@@ -1,2 +1,2 @@
 # CrackingTheCodingInterviewPython
-Answers to cracking the coding interview in ppython
+Answers to cracking the coding interview in python
